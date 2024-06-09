@@ -1,3 +1,3 @@
 # wp8926
 
-## A wordpresssite focusing on gutenberg
+## A Wordpress site focusing on Gutenberg
